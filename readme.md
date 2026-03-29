@@ -1,7 +1,12 @@
 # ZkBNB Go SDK
 
-The ZkBNB Go SDK provides a thin wrapper around thin all the apis provided by ZkBNB, including a simple key manager for signing
+The ZkBNB Go SDK provides a thin wrapper around all the apis provided by ZkBNB, including a simple key manager for signing
 txs and sending signed txs to ZkBNB.
+
+## Documentation
+
+- [zkpdf Wiki](docs/wiki/Home.md) — Documentation for zkpdf document anchoring and verification
+- [Project Roadmap](ROADMAP.md) — Planned features and milestones
 
 ## Usage
 
