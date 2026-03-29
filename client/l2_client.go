@@ -16,10 +16,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bnb-chain/zkbnb-go-sdk/accounts"
-	"github.com/bnb-chain/zkbnb-go-sdk/signer"
-	"github.com/bnb-chain/zkbnb-go-sdk/txutils"
-	"github.com/bnb-chain/zkbnb-go-sdk/types"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/accounts"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/signer"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/txutils"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/types"
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr/mimc"
 )
 

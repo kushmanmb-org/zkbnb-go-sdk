@@ -2,7 +2,7 @@ package accounts
 
 import (
 	"fmt"
-	"github.com/bnb-chain/zkbnb-go-sdk/signer"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/signer"
 	"strings"
 )
 

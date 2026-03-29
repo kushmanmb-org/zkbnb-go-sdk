@@ -1,4 +1,4 @@
-module github.com/bnb-chain/zkbnb-go-sdk
+module github.com/kushmanmb-org/zkbnb-go-sdk
 
 go 1.18
 

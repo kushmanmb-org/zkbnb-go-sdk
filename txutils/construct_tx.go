@@ -12,8 +12,8 @@ import (
 
 	curve "github.com/bnb-chain/zkbnb-crypto/ecc/ztwistededwards/tebn254"
 	"github.com/bnb-chain/zkbnb-crypto/ffmath"
-	"github.com/bnb-chain/zkbnb-go-sdk/accounts"
-	"github.com/bnb-chain/zkbnb-go-sdk/types"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/accounts"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/types"
 )
 
 func ConstructWithdrawTxInfo(key accounts.Signer, tx *types.WithdrawTxReq, ops *types.TransactOpts) (*txtypes.WithdrawTxInfo, error) {

@@ -9,7 +9,7 @@ txs and sending signed txs to ZkBNB.
 
 ```go
 import (
-    "github.com/bnb-chain/zkbnb-go-sdk" latest
+    "github.com/kushmanmb-org/zkbnb-go-sdk" latest
 )
 ```
 
