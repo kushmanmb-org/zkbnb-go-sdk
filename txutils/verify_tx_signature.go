@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/bnb-chain/zkbnb-crypto/wasm/txtypes"
-	"github.com/bnb-chain/zkbnb-go-sdk/types"
+	"github.com/kushmanmb-org/zkbnb-go-sdk/types"
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr/mimc"
 	"github.com/consensys/gnark-crypto/ecc/bn254/twistededwards/eddsa"
 )
